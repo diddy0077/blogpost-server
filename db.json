@@ -512,23 +512,6 @@
       "createdAt": "2025-01-10T09:30:00Z",
       "updatedAt": "2025-01-10T09:30:00Z",
       "comments": []
-    },
-    {
-      "id": 1757790438460,
-      "title": "Hello world",
-      "slug": "slugslugslug",
-      "excerpt": "dhjaakdddddddygukvkkkkkkkkkkkkkkvuaeeeeeeeeeeeeaddddddddddddddddddddddde",
-      "content": "aweyvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv",
-      "author": "Daniel udeh",
-      "tags": [
-        "java",
-        "swift",
-        "python"
-      ],
-      "imageUrl": "https://source.unsplash.com/random/800x400?sig=10&technology",
-      "createdAt": "2025-09-13T19:07:16.874Z",
-      "updatedAt": "2025-09-13T19:07:16.874Z",
-      "comments": []
     }
   ]
 }
